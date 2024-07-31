@@ -14,7 +14,7 @@ def play_game(player_name):
         random_number_two = random.randint(1, 100)
         correct_answer = gcd(random_number_one, random_number_two)
         print("Find the greatest common divisor of given numbers.")
-        print(f'Question: {random_number_one}  {random_number_two}')
+        print(f'Question: {random_number_one} {random_number_two}')
         player_answer = get_valid_number()
 
         if is_correct_answer(player_answer, correct_answer):
