@@ -1,3 +1,9 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Minnebaevilnaz/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Minnebaevilnaz/python-project-49/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e89f68c85cc716f3aa23/maintainability)](https://codeclimate.com/github/Minnebaevilnaz/python-project-49/maintainability)
+
+
+
 # Игры для Разума
 
 Добро пожаловать в "Игры для Разума"! Это коллекция небольших игр, разработанных для стимуляции вашего ума. Каждая игра проверяет различные аспекты ваших когнитивных способностей. В коллекцию входят следующие игры:
@@ -131,6 +137,3 @@ brain-prime
 
 
 
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Minnebaevilnaz/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Minnebaevilnaz/python-project-49/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/e89f68c85cc716f3aa23/maintainability)](https://codeclimate.com/github/Minnebaevilnaz/python-project-49/maintainability)
